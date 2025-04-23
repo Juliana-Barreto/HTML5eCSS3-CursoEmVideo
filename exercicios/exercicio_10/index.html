@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mídias em HTML</title>
+</head>
+<body>
+  <h1>Mídias</h1>
+  <hr>
+  <h2>Imagem dinâmica</h2>
+  <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do navegador.</p>
+  <picture>
+    <source media="(min-width:1050px)" srcset="imagens/foto-g.png" type="image/png">
+    <source media="(min-width:750px)" srcset="imagens/foto-m.png" type="image/png">
+    <img src="imagens/foto-p.png" alt="imagem dinâmica">
+  </picture>
+  <h2>Reproduzindo Áudio</h2>
+  <audio controls>
+    <source src="music.mp3" type="audio/mpeg">
+    <source src="music.ogg" type="audio/ogg">
+    Seu navegador não suporta áudio.
+  </audio>
+  <p>
+    <small><a href="https://freesound.org/s/383468/" target="_blank" rel="external">Sample 128 Bpm2</a> por deleted_user_439747 </small>
+  </p>
+</body>
+</html>
