@@ -8,7 +8,7 @@ Este repositório contém os exercícios, desafios e projetos realizados durante
 - Boas práticas de semântica HTML5  
 - Publicação de projetos no GitHub Pages
 
-📌 Sobre o Curso
+📌 Sobre o Curso  
 | Módulo | Habilidades Desenvolvidas |
 | :---: | :---: |
 | 1 |	Estrutura básica HTML, hierarquia de títulos, listas |
@@ -17,7 +17,7 @@ Este repositório contém os exercícios, desafios e projetos realizados durante
 | 4 |	Formulários avançados, validação CSS, media queries |
 | 5 |	Grid Layout, animações keyframes, deploy de projetos |
 
-🛠 Tecnologias Utilizadas
+🛠 Tecnologias Utilizadas  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
