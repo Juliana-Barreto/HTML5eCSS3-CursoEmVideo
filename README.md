@@ -7,3 +7,19 @@ Este repositório contém os exercícios, desafios e projetos realizados durante
 - Animações e efeitos visuais com CSS3  
 - Boas práticas de semântica HTML5  
 - Publicação de projetos no GitHub Pages
+
+## 📌 Sobre o Curso
+| Módulo | Habilidades Desenvolvidas
+| --- | --- |
+| 1 |	Estrutura básica HTML, hierarquia de títulos, listas |
+| 2 |	Formatação visual, links internos/externos, pseudo-classes |
+| 3 | Tabelas complexas, iframes, responsividade básica |
+| 4 |	Formulários avançados, validação CSS, media queries |
+| 5 |	Grid Layout, animações keyframes, deploy de projetos |
+
+🛠 Tecnologias Utilizadas
+HTML5
+CSS3
+Git
+
+
