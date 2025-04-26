@@ -8,8 +8,8 @@ Este repositório contém os exercícios, desafios e projetos realizados durante
 - Boas práticas de semântica HTML5  
 - Publicação de projetos no GitHub Pages
 
-📌 Sobre o Curso  
-| Módulo | Habilidades Desenvolvidas |
+ 📋 Estrutura do Curso
+| Módulo | Tópicos principais|
 | :---: | --- |
 | 1 |	Estrutura básica HTML, hierarquia de títulos, listas |
 | 2 |	Formatação visual, links internos/externos, pseudo-classes |
