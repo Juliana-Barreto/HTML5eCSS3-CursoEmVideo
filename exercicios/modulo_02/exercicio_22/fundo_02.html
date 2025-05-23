@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      text-align: center;
+    }
+    .wallpaper {
+      background-image: url(imagens/wallpaper003.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 100vh;
+      border: 1px solid black;
+    }
+    .bloco {
+      display: inline-block;
+      background-image: url(imagens/wallpaper003.jpg);
+      height: 200px;
+      width: 500px;
+      background-color:rgba(128, 128, 128, 0.452);
+      border: 1px solid black;
+      margin: 5px;
+    }
+    #b1 {
+      background-position: left bottom;
+    }
+    #b2 {
+      background-position: center center;
+    }
+    #b3 {
+      background-position: left top;
+    }
+    #b4 {
+      background-position: right bottom;
+    }
+  </style>
+  <title>Posicionamento de Fundo</title>
+</head>
+<body>
+  <h1>Teste de Imagem de Fundo</h1>
+  <div class="wallpaper"></div>
+  <h1>Diferentes Posicionamentos</h1>
+  <div class="bloco" id="b1"></div>
+  <div class="bloco" id="b2"></div>
+  <div class="bloco" id="b3"></div>
+  <div class="bloco" id="b4"></div>
+</body>
+</html>
+</html>
